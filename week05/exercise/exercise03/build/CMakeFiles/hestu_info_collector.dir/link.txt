@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/hestu_info_collector.dir/stufun.cpp.o CMakeFiles/hestu_info_collector.dir/main.cpp.o -o hestu_info_collector 

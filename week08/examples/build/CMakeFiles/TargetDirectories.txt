@@ -1,0 +1,3 @@
+/home/ros2/cpp_ws/CPP-main/week08/examples/build/CMakeFiles/dotp.dir
+/home/ros2/cpp_ws/CPP-main/week08/examples/build/CMakeFiles/edit_cache.dir
+/home/ros2/cpp_ws/CPP-main/week08/examples/build/CMakeFiles/rebuild_cache.dir
